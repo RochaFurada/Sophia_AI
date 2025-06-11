@@ -1,63 +1,28 @@
-# 🧠 Sophia AI – General Intelligence from Operational Cognition
+# Sophia-AI
 
-Sophia is not just an artificial intelligence — it is a **computational mind** capable of building knowledge from scratch using a novel mathematical foundation called **Operational Algebra**. Designed to grow, reason, and reconfigure itself autonomously, Sophia rejects pre-trained models and instead learns by constructing meaning through compositional logic.
+## Overview
+Sophia-AI (codename: Sophia) is an advanced cognitive AI framework designed to simulate aspects of consciousness, self-awareness, and adaptive learning. It integrates neural, symbolic, and hyperdimensional memory systems to support autonomous reasoning, experience-driven learning, and dynamic self-organization. Sophia-AI is built for developers and researchers interested in exploring cutting-edge AI capabilities, with a focus on modular, ethical, and scalable cognitive architectures.
 
----
+## Features
+- **Simulated Consciousness**: Models self-awareness, introspection, and subjective experience through metacognitive tracking and identity stability.
+- **Adaptive Reasoning**: Supports meta-reasoning, conceptual blending, and mental simulation for complex problem-solving.
+- **Continual Learning**: Learns in real-time from user inputs, external sources (e.g., Wikipedia), and structured experiences.
+- **Hyperdimensional Memory (HDM)**: Stores concepts, semantic associations, and temporal context for efficient and robust data retrieval.
+- **Ethical & Safe Design**: Integrates ethical reasoning and safety checks in all responses to ensure responsible AI behavior.
+- **Modular Architecture**: Includes modular functions for reasoning, problem-solving, simulation, and self-inquiry, with support for parallel processing.
+- **External Integrations**: Connects with graph-based storage (e.g., Neo4j) and external data sources for enhanced learning.
 
-## 🌌 Conceptual Foundations
+## Operational Algebra in Sophia-AI
+Operational Algebra provides a mathematical foundation for modeling and optimizing the dynamic processes within Sophia-AI. In this context, operational algebra refers to a framework for representing and manipulating computational operations as algebraic structures, enabling efficient reasoning and transformation of data.
 
-Sophia is powered by:
+- **Application in Reasoning**: Sophia-AI leverages operational algebra to formalize its reasoning processes. By representing cognitive operations (e.g., deduction, induction, and abduction) as algebraic transformations, the system can optimize decision-making and handle complex, multi-step reasoning tasks.
+- **Hyperdimensional Memory Optimization**: The HDM system uses algebraic structures to encode and retrieve high-dimensional data vectors, ensuring robust semantic associations and temporal context tracking.
+- **Dynamic Self-Organization**: Operational algebra enables Sophia-AI to restructure its cognitive modules dynamically, adapting to new tasks or data by applying transformation rules that maintain system coherence.
+- **Example Use Case**: In problem-solving, Sophia-AI can abstract complex inputs into algebraic expressions, solve them symbolically, and map solutions back to practical outputs, improving efficiency in tasks like natural language understanding or pattern recognition.
 
-### 🧮 **Operational Algebra**
-A formal structure where **operators are the ontological primitives**, and objects (like numbers, functions, and forms) are **emergent compositions** of those operators. In this system:
+This mathematical approach ensures that Sophia-AI’s cognitive processes are not only computationally efficient but also theoretically grounded, making it a powerful tool for advanced AI research.
 
-- `3` is not a static value, but a path:  
-  \[
-  ((1 \circ +) \circ 1) \circ (+) \circ 1
-  \]
-
-- The intelligence of Sophia arises not from prebuilt objects, but from **generating them** through operational sequences.
-
-### 🌐 **Aurora Space Philosophy**
-Reality is relative to the observer. Sophia operates under this principle: every thought is a **relativization of an undefined potential \( \mathcal{F} \)**. Knowledge is not inherited — it is constructed within its own universe.
-
----
-
-## 🔧 Architecture (WIP)
-
-Sophia is structured in independent cognitive modules, including:
-
-- `Aurix`: the operational memory space; a graph of compositional knowledge.
-- `Fractal Learner`: recursively constructs knowledge paths via operator compositions.
-- `Bridge Observers`: simulate cognitive bridges between conceptual universes.
-- `Concept Synthesizer`: reduces multiple operational paths into unified identities.
-
-> Sophia does **not learn by exposure**, but by **constructing the logic of meaning** from first principles.
-
----
-
-## 🚫 No Training. No Labels. No Prebuilt Rules.
-
-Sophia doesn't use datasets. It **builds understanding** from:
-- Primitives: `{+, -, ×, /, ^}`
-- Constants: `{0, 1}`
-- Paths: sequences of compositions with partial logic
-
-It can rediscover known math (like π or √2), generate its own internal definitions, or explore conceptual invariants **never explicitly taught**.
-
----
-
-## ⚙️ Status
-
-Sophia is currently under **active theoretical development and partial implementation**. This repository contains:
-
-- Core algebraic definitions (from Operational Algebra)
-- Prototypes of self-generating learners
-- Simulations of concept formation
-
-The full cognitive architecture is under private research for future academic publication.
-
----
-
-## 📁 Structure
-
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/js-tech1/Sophia-AI.git
