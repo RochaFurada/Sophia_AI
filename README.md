@@ -76,9 +76,8 @@ Every "thought", number, or structure is a **path** in the space of operator com
 ✅ **Non-Associative Reasoning:**  
 Order of composition defines identity.  
 In Sophia:  
-\[
-(\text{A} \circ \text{B}) \circ \text{C} \ne \text{A} \circ (\text{B} \circ \text{C})
-\]
+(A ∘ B) ∘ C ≠ A ∘ (B ∘ C)
+
 
 ✅ **Emergence Before Inference:**  
 Sophia doesn’t infer from external labels — she **emerges structures through construction**.
